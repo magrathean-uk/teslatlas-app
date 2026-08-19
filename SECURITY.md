@@ -1,10 +1,21 @@
-# Security Policy
+# Security Policy — Teslatlas Documentation
 
-If you discover a security issue in Teslatlas, please do not open a public issue. Report it privately:
+## Private Reporting
 
-- Email: [contact@magrathean.uk](mailto:contact@magrathean.uk)
-- Subject: `[SECURITY] Teslatlas: <short description>`
+Report vulnerabilities through GitHub private vulnerability reporting or email `contact@magrathean.uk` with subject `SECURITY: Teslatlas Documentation`.
 
-Include a description, the version or build if known, and reproduction steps where possible.
+Do not publish credentials, private keys, database dumps, signing certificates, or exploit details.
 
-We will acknowledge receipt within five UK working days.
+Include affected version/commit, platform, topology, reproduction steps, impact, and redacted evidence.
+
+## Scope & Safe Harbour
+
+Magrathean UK Ltd. will not pursue a good-faith researcher for security disclosures that:
+- Target non-production test systems or researcher-owned environments;
+- Avoid persistence, destructive changes, denial of service, and access to personal or customer data;
+- Report promptly and permit reasonable time for remediation;
+- Do not condition non-disclosure on financial compensation.
+
+## Excluded Conduct
+
+No safe harbour covers phishing, credential stuffing, accessing private production infrastructure, large-scale scanning, denial of service, or unlawful conduct.
